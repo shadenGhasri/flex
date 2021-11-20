@@ -391,4 +391,20 @@ template {
     padding-bottom: 3rem;
 
 }
+/*footer*/
+.footer{
+    margin-top: 2rem;
+}
+.copy-right {
+    color: #6C7890;
+    padding: 1rem 0;
+    
+}
+
+.copy-right__wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
 
